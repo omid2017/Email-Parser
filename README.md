@@ -1,4 +1,4 @@
-# FriendlyScore Task
+# Email Parser
 <h3> What is it? </h3>
 The task above suppose to do analyses on e-mail semantic . the script is using Gmail API and chop a signature off an email body. <br/>
 
